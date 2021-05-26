@@ -1,6 +1,5 @@
 import { ThrowStmt } from '@angular/compiler';
 import { Component } from '@angular/core';
-import { parse } from 'node:path';
 
 @Component({
   selector: 'app-root',
