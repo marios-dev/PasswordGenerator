@@ -30,6 +30,5 @@ export class AppComponent {
       Includes numbers: ${this.includeNumbers}
       Includes symbols: ${this.includeSymbols}
     `);
-    this.password = 'My Password';
   }
 }
